@@ -1,2 +1,2 @@
 # fullstack
-for all my full-stack project
+for my full-stack projects
